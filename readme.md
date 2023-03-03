@@ -56,7 +56,6 @@ git clone https://github.com/your_username/openai-chatbot.git
 ```bash
 pip install -r requirements.txt
 ```
-t
 
 ## Usage
 
