@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 
 ```bash
-python3 openai-chatbot.py
+python3 bot.py
 ```
 
 输入 reset!! 来重置会话，或输入 quit!! 来退出。
@@ -36,6 +36,7 @@ python3 openai-chatbot.py
 
 - [ ] 内存优化，context太长时，考虑使用文件流
 - [ ] 用户输入过滤
+- [ ] 输入指示符会被删除的问题
 
 # OpenAI-command line assistent
 
@@ -74,5 +75,6 @@ You can enter reset!! to reset the session or quit!! to exit the Chatbot.
 
 - [ ] Memory optimization, consider using a file stream when the context is too long 
 - [ ] User input filtering
+- [ ] An issue that input indicators are deleted
 
 
