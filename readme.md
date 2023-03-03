@@ -47,7 +47,7 @@ python3 bot.py
 ### Clone this repository:
 
 ```bash
-git clone https://github.com/your_username/openai-chatbot.git
+git clone https://github.com/PEKEW/openai-assistent.git
 ```
 
 ### Install the necessary dependencies:
